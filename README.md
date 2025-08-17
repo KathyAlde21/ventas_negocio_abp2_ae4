@@ -1,4 +1,4 @@
-**_<h1 align="center">:vulcan_salute: Base de Datos Ventas M4_ABP_AE4-1:computer:</h1>_**
+**_<h1 align="center">:vulcan_salute: Base de Datos Ventas ABP2_AE4:computer:</h1>_**
 
 
 **<h3>:blue_book: Contexto de la Actividad:</h3>**
@@ -149,7 +149,7 @@ SET FOREIGN_KEY_CHECKS = 1;
 **<h3>📁 Estructura del Proyecto:</h3>**
 
 ```
-📁ventas_m4_abp_ae4-1
+📁ventas_abp2_ae4
 └── README.md
 └── 📁img
 │    ├── 📁wireframes
